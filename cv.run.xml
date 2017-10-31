@@ -79,8 +79,5 @@
     <requires type="dynamic">
       <file>cv.bcf</file>
     </requires>
-    <requires type="editable">
-      <file>bibliography.bib</file>
-    </requires>
   </external>
 </requests>
